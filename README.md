@@ -19,3 +19,8 @@ This is a beginner-friendly rule-based chatbot built using **Python**, **NLTK**,
 3. Install dependencies:
    ```bash
    pip install -r requirements.txt
+   
+## 📸 Screenshot
+
+![Chatbot UI](screenshots/chatbot_ui.png)
+
