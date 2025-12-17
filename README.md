@@ -1,6 +1,6 @@
 # 🤖 Simple Rule-Based Chatbot
 
-This is a beginner-friendly rule-based chatbot built using **Python**, **NLTK**, and **Streamlit**.
+This is a beginner-friendly rule-based chatbot built using **Python**, **NLTK**, and **Streamlit**. This project was built to understand the fundamentals of chatbot intent classification and NLP preprocessing.
 
 ## 🔹 Features
 - Intent detection using keyword matching
